@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814607458205",
+    "project_id": "paypee-d479a",
+    "storage_bucket": "paypee-d479a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814607458205:android:5fd40a32a9e90fa8e9d974",
+        "android_client_info": {
+          "package_name": "com.example.paypee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814607458205-2sb1l0sitbar0ekcnssvho9vhc61g9n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-mO7ve6iY5qKhbgWmL4B4Y9kfMaU9zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814607458205-2sb1l0sitbar0ekcnssvho9vhc61g9n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
